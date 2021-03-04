@@ -1,2 +1,1 @@
-# haskell-exam-bot
-Simple Echo-Bot
+# Sorry, underconstroction
