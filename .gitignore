@@ -21,3 +21,10 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
+# __VIM__
+.swp
+
+# __VSCODE__
+.vscode
+.history
